@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-Alumno en la UMA/n
-Grado de Ingeniería Electrónica, Robótica y Mecatrónica
+Alumno en la UMA.
+
+Grado de Ingeniería Electrónica, Robótica y Mecatrónica.
