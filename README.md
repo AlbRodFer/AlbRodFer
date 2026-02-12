@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-Encantado de pertenecer a roborescue!
+Alumno en la UMA
+Grado de Ingeniería Electrónica, Robótica y Mecatrónica
